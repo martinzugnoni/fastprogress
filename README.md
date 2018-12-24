@@ -75,3 +75,9 @@ Here is the rendering in console:
 <img src="https://github.com/fastai/fastprogress/raw/master/images/pb_console.gif" width="800">
 
 If the script using this is executed with a redirect to a file, only the results of the .write method will be printed in that file.
+
+## Demo
+
+Try `fastprogress` interactively in this online demo:
+
+[![](https://cdn-images-1.medium.com/max/1600/1*cI91DR6og9iF06hBrHKINg.png)](http://notebooks.rmotr.com/demo/gh/martinzugnoni/fastprogress)
